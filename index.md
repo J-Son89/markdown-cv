@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: Jamie Caprani CV
 ---
 # Jamie Caprani, Software Developer
