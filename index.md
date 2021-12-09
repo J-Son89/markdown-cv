@@ -1,91 +1,90 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Jamie Caprani, Software Developer
 
 
-## Currently
+I am a Software Developer with over five years professional experience. For the past three years I worked as a Software Engineer on a innovate project which grew from a small component library to a platform for frontend development projects for custumers of the company. My core focus was desigining upgradability tooling and protocols. I was an advocate in this project for clean and maintainable code and simple, future proofed solutions to any technical problems.
 
-Standing on the shoulders of giants
+I enjoy the technical problem solving aspect of computer science and also the creative process of implementing elegant designs with intuitive UX.
 
-### Specialized in
+As a worker I often receive praise for my ability to reach deadlines and contributing to positive, focused team spirit. I relish a steep challenge and ambitious targets to motivate my progress.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I am highly educated and experienced, this combined with my interpersonal skills offers a very well-rounded and professional asset to any software development team.
 
+## Experience
 
-### Research interests
+### Guidewire (09/20 - 11/21)
+Guidewire is an insurance software company focusing on the Policy & Claims sector. 
+Guidewire has been a market leader in their area for over 20 years.
+I was instrumental in leading the technical aspect of my teams work and communicating these ideas to other teams and senior members of the project.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+``` 
+Senior Software Engineer
 
+• Communicating technical ideas with the project architect
+• Communicating technical ideas with the other developers on the team
+• Primary focus on upgradability and creating tools to help with upgrade automation
+• Designing and delivering new functionality for the Jutro platform
+• Enforcing the codebase is readable and maintainable through community and automation 
+```
 
-## Education
+### Guidewire (11/18 - 09/20)
 
-`1654-1660`
-__The King's School, Grantham.__
+```
+Software Engineer
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+• Implementing technical features to the design spec
+• Researching new technologies and ideas for the project
+• Ensuring code standards are maintained to best practices
+• Managing the intern project for our team
+```
 
-- Sizar
+### Fotostore (05/18 – 11/18)
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Fotostore is an e-commerce app. I was contracted to port their mobile app services to a responsive web app using a React-Redux infrastructure, working in an agile workflow.
 
 
-## Occupation
+```
+Frontend Developer
+    
+• Integrating third party libraries, web services and legacy systems
+• Implementing responsive designs
+• Designing and recreating a similar UX to their mobile apps
+• Reviewing and testing code from other developers
+```
 
-`1600`
-__Royal Mint__, London
+### Serp Connect (02/16 – 04/18)
 
-- Warden
-- Minted coins
+Serp Connect, Lund, Sweden - 
+SERP Connect is a team of researchers from Lund University and Blekinge Institute working in the field of Software Testing. SERP develop tools to document research problems and challenges in the bridge between research and practice in software testing.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+```
+Frontend Developer
 
+• Communicating with management and the development team
+• Coordinating work effort with the client, PMs, testers & designers
+• Designing and implementing UX
+• Deploying updated versions of the website
+```
 
+## EDUCATION
 
-<!-- ### Footer
+### BSc Mathematics
+Lund University, Sweden (2016 - 2018)
 
-Last updated: May 2013 -->
+I received the highest possible grade for my thesis, focusing on mathematical methods for image analysis used in applications from medical imaging to computer vision.
+### Higher Diploma, Software Development
 
+Maynooth University, Ireland (2015-2016)
 
+ + Awarded First Class Honours
+ + Studied extra modules in computer game development
+
+### BA English and Spanish (Double Honours)
+
+NUI Maynooth, Ireland (2008 - 2011)
+
+Additional modules in Catalan & Basque languages, behavioural and social psychology
+
+### Personal Interests
+Outside of work I enjoy playing football and going rock-climbing. I play music with friends and sometimes perform
+at concerts and festivals (Knockanstockan, Electric Picnic). I’ve travelled all over Europe and love to meet new
+people and experience different cultures.
