@@ -24,9 +24,9 @@ Senior Software Engineer
 
 • Communicating technical ideas with the project architect
 • Communicating technical ideas with the other developers on the team
-• Primary focus on upgradability and creating tools to help with upgrade automation
+• Primary focus on upgradability tooling to help with upgrade automation
 • Designing and delivering new functionality for the Jutro platform
-• Enforcing the codebase is readable and maintainable through community and automation 
+• Maintaining the standard of code quality in the project
 ```
 
 ### Guidewire (11/18 - 09/20)
