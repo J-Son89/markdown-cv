@@ -1,5 +1,8 @@
+---
+layout: cv
+title: Jamie Caprani CV
+---
 # Jamie Caprani, Software Developer
-
 
 I am a Software Developer with over five years professional experience. For the past three years I worked as a Software Engineer on a innovate project which grew from a small component library to a platform for frontend development projects for custumers of the company. My core focus was desigining upgradability tooling and protocols. I was an advocate in this project for clean and maintainable code and simple, future proofed solutions to any technical problems.
 
