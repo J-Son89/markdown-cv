@@ -68,7 +68,7 @@ Frontend Developer
 • Deploying updated versions of the website
 ```
 
-## EDUCATION
+## Education
 
 ### BSc Mathematics
 Lund University, Sweden (2016 - 2018)
